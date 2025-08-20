@@ -41,9 +41,9 @@ public class Main {
         texto.put("over", "por cima");
         texto.put("lazy", "preguiçoso");
         texto.put("dog", "cachorro");
-        texto.put("pig", "porco");
 
-        texto.put("cat", "gato");
+        texto.put("test", "teste");
+
 
         System.out.print("Digite uma frase em inglês: ");
         String frase_orig = scStr.nextLine();
