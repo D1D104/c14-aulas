@@ -41,6 +41,7 @@ public class Main {
         texto.put("over", "por cima");
         texto.put("lazy", "preguiçoso");
         texto.put("dog", "cachorro");
+        texto.put("pig", "porco");
 
         texto.put("cat", "gato");
 
