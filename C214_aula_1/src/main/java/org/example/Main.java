@@ -42,6 +42,8 @@ public class Main {
         texto.put("lazy", "preguiçoso");
         texto.put("dog", "cachorro");
 
+        texto.put("cat", "gato");
+
         System.out.print("Digite uma frase em inglês: ");
         String frase_orig = scStr.nextLine();
         LookupTranslator translator = new LookupTranslator(texto);
